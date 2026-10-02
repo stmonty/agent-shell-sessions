@@ -25,6 +25,4 @@ a conversation requires support from the agent.
 
 ## License
 
-Copyright (C) 2026 Monty Bichouna.
-
 [GPL v3 or later](LICENSE).
