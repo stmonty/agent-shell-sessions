@@ -1,0 +1,8 @@
+*.elc
+*.eln
+*~
+\#*\#
+.\#*
+.DS_Store
+.agent-shell/
+agent-shell-sessions.json
